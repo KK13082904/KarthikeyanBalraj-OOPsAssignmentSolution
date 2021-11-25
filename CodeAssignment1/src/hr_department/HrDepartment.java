@@ -4,7 +4,7 @@ import super_department.SuperDepartment;
 
 public class HrDepartment extends SuperDepartment {
 	public String departmentName() {
-		return "Hr Department";
+		return "HR Department";
 	}
 	
 	public String getTodaysWork() {
